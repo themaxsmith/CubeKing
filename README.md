@@ -8,7 +8,9 @@ bluetooth multiplayer through MultiPeer.
 Google ads built in with a iap to remove ads
 
 
-Create a cocopods and add these pods as dependencies
+# How to run app
+1. Download project and CocoPods (if not installed)
+2. run ```pod init``` in terminal & then add these pods as dependencies in the file then run ```pod install```
 
 ```
 pod 'MultiPeer'
