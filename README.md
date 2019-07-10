@@ -1,11 +1,6 @@
 # CubeKing: Last Cube Standing
-iOS Survival Game - Last one standing wins
 
-A simple 2d survival game using SpriteKit.
-
-bluetooth multiplayer through MultiPeer.
-
-Google ads built in with a iap to remove ads
+iOS Basic Survival Game - Last one standing wins. This game is ment for Swift & Sprite Kit beginners to get a jump start on how Sprite Kit can be incorperated into a real fully-fetured game. The game also supports bluetooth multiplayer through MultiPeer and Google ads built in with a IAP to remove ads.
 
 
 # How to run app
